@@ -251,6 +251,4 @@ DEEPSORT:
 
 ## 许可证
 
-本项目基于 [GPL v3](LICENSE) 开源协议。
-
-目标检测部分来源：[YOLOv5](https://github.com/ultralytics/yolov5/)
+MIT License
