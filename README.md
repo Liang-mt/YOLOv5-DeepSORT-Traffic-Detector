@@ -2,7 +2,7 @@
 
 基于 YOLOv5 目标检测和 DeepSORT 多目标跟踪的车流量统计系统，提供 PyQt5 图形界面，支持摄像头实时检测和视频文件检测，检测结果自动存入 SQLite 数据库，并支持按摄像头编号和时间段查询历史车流量。
 
-![image](screenshot.png)
+![image](./img/example.jpg)
 
 ## 功能特性
 
